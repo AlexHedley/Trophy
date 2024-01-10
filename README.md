@@ -1,0 +1,2 @@
+# Trophy
+Statiq Theme
